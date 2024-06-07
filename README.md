@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/111_ridham_111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="111_ridham_111" height="30" width="40" /></a>
-<a href="https://x.com/RidhamSavaliy16" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.google.com/imgres?q=twitter%20imager%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FLogo_of_Twitter.svg%2F292px-Logo_of_Twitter.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&docid=a1CrifKNjUq-HM&tbnid=ZJPCcz8QvcslOM&vet=12ahUKEwjx9-rsvsmGAxVOSmwGHYGvAuoQM3oECFIQAA..i&w=292&h=240&hcb=2&ved=2ahUKEwjx9-rsvsmGAxVOSmwGHYGvAuoQM3oECFIQAA)" alt="Ridham-Twitter" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
