@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridham Savaliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width=400 height=200 object-fit=cover src="http://res.cloudinary.com/dsqpc6sp6/image/upload/v1739523127/mwl54pctmrcqwb2boc2y.png">
+<img align="right" alt="coding" width=200 height=200 object-fit=cover src="http://res.cloudinary.com/dsqpc6sp6/image/upload/v1739523127/mwl54pctmrcqwb2boc2y.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridham-savaliya04&label=Profile%20views&color=0e75b6&style=flat" alt="ridham-savaliya04" /> </p>
 
