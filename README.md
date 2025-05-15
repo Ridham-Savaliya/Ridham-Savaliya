@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" style="width: 100%; height: 40%; object-fit: cover;" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" height="180" />
+
 
 
 # Hello World!, I'm Ridham, a Indian Web Developer 👋🏼:
