@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" style="width: 100%; height: 80%; object-fit: cover;" />
+
 
 # Hello World!, I'm Ridham, a Indian Web Developer 👋🏼:
 🛜 currently working on my own Sass product CollaborativeX - Ai powered whiteboard<br>👨🏼‍🎓 Studied at veer Narmad South Gujarat Univerciy <br>👨🏼‍💻 working as a web developer since 2024
