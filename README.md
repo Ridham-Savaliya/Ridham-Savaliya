@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Ridham, a Indian Web Developer 👋🏼:
-🛜 currently working on my own SaaS product CollaborativeX - AI-powered whiteboard  
+🛜 currently working on my own SaaS product CollaborativeX - AI powered whiteboard  
 👨🏼‍🎓 Studied at Veer Narmad South Gujarat University  
 👨🏼‍💻 Working as a web developer since 2024
 
